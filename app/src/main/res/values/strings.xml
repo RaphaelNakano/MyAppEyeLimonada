@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAppEyeLimonada</string>
+    <string name="lemon_tree">Toque no limoeiro para selecionar um limão</string>
+    <string name="lemon_squeeze">Esprema o limão para fazer uma limonada </string>
+    <string name="lemon_drink">Aproveite a Limonada</string>
+    <string name="lemon_restart">Faça a Limonada denovo. Pois quando a vida te dá limões faça uma limonada</string>
+</resources>
